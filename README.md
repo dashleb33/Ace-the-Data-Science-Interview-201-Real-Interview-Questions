@@ -1,2 +1,2 @@
-# Ace-the-Data-Science-Interview-by-Huo-Singh
-Practice solutions for SQL & DB Design questions from ATDSI by Nick Singh &amp; Kevin Huo
+# Ace-the-Data-Science-Interview-201-Real-Interview-Questions
+Практические решения вопросов по SQL & DB Design из ATDSI от Ника Сингха и Кевина Хуо
