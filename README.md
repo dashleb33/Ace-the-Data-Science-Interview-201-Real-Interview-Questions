@@ -15,3 +15,4 @@ https://www.nicksingh.com/posts/30-machine-learning-interview-questions-ml-inter
 Источники:
 - Wasserman, L. (2013). All of Statistics: A Concise Course in Statistical Inference. Springer Science & Business Media.
 - Casella, G., & Berger, R. L. (2002). Statistical inference. Duxbury press.
+- https://www.statisticshowto.com/representative-sample/
